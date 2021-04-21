@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
+### فاطمه موسایی
+<img src="https://avatars.githubusercontent.com/u/72305540?v=4" /></a>
 
-You can use the [editor on GitHub](https://github.com/fatememosaee/Resume-farsi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### اطلاعات شخصی
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+<ol>
+ <li> نام : فاطمه</li>
+ <li> نام خانوادگی : موسایی</li>
+ <li> تاریخ تولد :۱۳۷۸/۰۸/۲۳</li>
+ <li> وضعیت تاهل : مجرد</li>
+ <li> دانشجوی مهندسی کامپیوتر</li>
+ <li> موقعیت مکانی : ایران،تهران</li>
+</ol>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### مهارت ها
 
-```markdown
-Syntax highlighted code block
+---
+<ol>
+ <li> مترجم زبان انگلیسی</li>
+ <li> کرل دراو</li>
+ <li>الستریتور</li>
+ <li>طراحی لوگو</li>
+ <li>ICDL1</li>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+</ol>
 
-1. Numbered
-2. List
+### تحصیلات
 
-**Bold** and _Italic_ and `Code` text
+---
+<ol>
+<li> دیپلم : مدرسه ی فرهنگ
+ _ ۹۴/۹۵</li>
+<li> کارشناسی : 
+ _ ورودی سال۹۷ دانشگاه پیام نور مرکز ورامین</li>
+</ol>
 
-[Link](url) and ![Image](src)
-```
+### علایق
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
+<ol>
+ <li> مسافرت</li>
+ <li> تماشای فیلم</li>
+</ol>
 
-### Jekyll Themes
+### سوابق کاری
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fatememosaee/Resume-farsi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
+<ol>
+ <li> جایی مشغول به کار نیستم </li>
+</ol>
 
-### Support or Contact
+### زبان های محاوره
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+<ol>
+ <li> فارسی</li>
+ <li> ترکی استانبولی</li>
+ <li> آذری</li>
+ <li> انگلیسی</li>
+</ol>
+
+### زبان های برنامه نویسی
+
+---
+<ol>
+ <li> Android</li>
+ <li> IOS</li>
+ <li> Java Script</li>
+ <li> HTML</li>
+ <li> CSS</li>
+</ol> 
+ 
+
+### [تماس با من](https://web.telegram.org/#/im?p=@fatememosaee)
+- کوئرا: <a href="https://quera.ir/profile/fatememosaee">My Profile</a>
+
+   - رزومه ی انگلیسی: <a href="https://fatememosaee.github.io/Resume/"> Resume </a>
